@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Shadow backdrop -->
+    <path
+        android:fillColor="#15000000"
+        android:pathData="M56,56m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+    <!-- Central Gold Round Coin -->
+    <path
+        android:fillColor="#EBCB8B"
+        android:pathData="M54,54m-27,0a27,27 0,1 1,54 0a27,27 0,1 1,-54 0" />
+
+    <!-- Inner Cream contrast border -->
+    <path
+        android:fillColor="#ECEFF4"
+        android:pathData="M54,54M54,29C40.2,29 29,40.2 29,54C29,67.8 40.2,79 54,79C67.8,79 79,67.8 79,54C79,40.2 68.6,29 54,29ZM54,77C41.3,77 31,66.7 31,54C31,41.3 41.3,31 54,31C66.7,31 77,41.3 77,54C77,66.7 66.7,77 54,77Z" />
+
+    <!-- Chess King Silhouette Symbol -->
+    <path
+        android:fillColor="#2E3440"
+        android:pathData="M52,38 L56,38 M54,36 L54,40 M46,44 L62,44 C62,44 60,54 58,54 L60,54 L60,58 L48,58 L48,54 L50,54 C48,54 46,44 46,44 Z M44,61 L64,61 L64,65 L44,65 Z" />
+</vector>

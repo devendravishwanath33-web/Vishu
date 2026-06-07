@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Chess",
+  "description": "A luxury, dark-themed Chess Arena built for Vishwanath featuring standard move logic, smart local AI mechanics, local game saves, and historical statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
